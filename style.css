@@ -33,15 +33,15 @@ body{
     line-height: 80px;
   }
   .header h1 {
-    font-size: 30px;
-    font-weight: normal;
+    font-size: 50px;
+    font-weight: bolder;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
   }
   
   .header.shrink h1 {
-    font-size: 24px;
+    font-size: 30px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
