@@ -151,3 +151,14 @@ footer{
     border-radius: 20%;
     margin: 0 40%;
 }
+
+#single-book{
+    padding-top: 0;
+}
+
+@media (min-width: 1030px){
+    .dummy{
+        max-width: 50%;
+    }
+}
+
