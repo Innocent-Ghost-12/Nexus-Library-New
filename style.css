@@ -154,8 +154,11 @@ footer{
 
 #single-book{
     padding-top: 0;
+    grid-gap: 30px;
 }
-
+.cursor{
+    cursor:default
+}
 @media (min-width: 1030px){
     .dummy{
         max-width: 50%;
